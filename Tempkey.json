@@ -14,19 +14,3 @@
     "allowOffline": false
    }
 ]
-[
-  {
-    "id": "78ddc77770ae5913",
-    "username": "van231",
-    "password": "van231",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_3",
-    "username": "user3",
-    "password": "pass3",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-   }
-]
