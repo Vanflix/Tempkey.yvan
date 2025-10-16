@@ -12,14 +12,7 @@
     "password": "joy123",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-  },
-  {
-    "id": "78ddc77770ae5913",
-    "username": "bert123",
-    "password": "bert123",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-
+ 
 
 
 
