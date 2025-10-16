@@ -16,17 +16,16 @@
 ]
 [
   {
-     "id": "67a52761b639b65d",
-    "username": "Joy101",
-    "password": "Joy101",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   },
   {
-    "id": "android_device_id_4",
-    "username": "user4",
-    "password": "user4",
+    "id": "android_device_id_3",
+    "username": "user2",
+    "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
