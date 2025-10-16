@@ -12,5 +12,11 @@
     "password": "Bert123",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-   }
-]
+  }
+    },
+  {
+    "id": "android_device_id_3",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
