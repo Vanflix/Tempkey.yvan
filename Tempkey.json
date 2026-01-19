@@ -3,14 +3,14 @@
     "id": "07ada323d150ea3a",
     "username": "Ben123",
     "password": "Ben123",
-    "expiresAt": "2025-12-31",
+    "expiresAt": "2026-12-31",
     "allowOffline": true
   },
   {
     "id": "78ddc77770ae5913",
     "username": "Bert1234",
     "password": "Bert1234",
-    "expiresAt": "2025-11-30",
+    "expiresAt": "2026-11-30",
     "allowOffline": false
   }
 ]
