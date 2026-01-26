@@ -39,7 +39,7 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
+    "id": "android_device_id_3",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
@@ -55,7 +55,7 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
+    "id": "android_device_id_4",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
@@ -71,7 +71,7 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
+    "id": "android_device_id_5",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
@@ -87,7 +87,7 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
+    "id": "android_device_id_6",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
